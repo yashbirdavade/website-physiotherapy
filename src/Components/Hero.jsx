@@ -32,7 +32,7 @@ const Hero = () => {
           </div>
           <div className="text-center">
             <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-4xl">
-           Welcome to Pune Institute of Physical Medicine and Sports Center
+          Hello, Welcome to Pune Institute of Physical Medicine and Sports Center
             </h1>
             <p className="mt-6 text-lg leading-8 text-gray-600">
             As pioneers in physiotherapy and sports medicine, we are dedicated to restoring mobility, enhancing performance, and promoting overall wellness. Our expert team combines cutting-edge techniques with compassionate care to empower individuals to reach their full potential. Whether you're recovering from an injury, aiming to improve athletic performance, or simply seeking to live a healthier, more active life, you've come to the right place. Join us on your journey to vitality and excellence. Let's embark together on a path to renewed strength, vitality, and joy in motion."
